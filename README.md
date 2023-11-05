@@ -34,7 +34,7 @@ re-introduction to C programming and shell language : rewriting functions from t
 | ex13  | [`ft_recursive_factorial.c`](/ex13/ft_recursive_factorial.c) | |
 | ex14  | [`ft_sqrt.c`](/ex14/ft_sqrt.c) |  |
 | | | |
-| __Array Functions__ |           |   __100%__    |
+| __Array functions__ |           |   __100%__    |
 | ex15  | [`ft_putstr.c`](/ex15/ft_putstr.c)  |   |
 | ex16  | [`ft_strlen.c`](/ex16/ft_strlen.c) |  |
 | ex17  | [`ft_strcmp.c`](/ex17/ft_strcmp.c) | |
@@ -43,7 +43,7 @@ re-introduction to C programming and shell language : rewriting functions from t
 | ex20  | [`ft_strdup.c`](/ex20/ft_strdup.c) |  |
 | ex21  | [`ft_range.c`](/ex21/ft_range.c) |   |
 | | | |
-| __Makefiles Headers & Pointers__ |           | __100%__ |
+| __Makefiles headers & pointers__ |           | __100%__ |
 | ex22  | [`ft_abs.h`](/ex22/ft_abs.h) |  |
 | ex23  | [`ft_point.h`](/ex23/ft_point.h) | |
 | ex23  | [`main.c`](/ex23/main.c) | |
