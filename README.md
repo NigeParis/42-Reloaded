@@ -10,7 +10,7 @@
 
 ## C programming and shell reload
  ### Reloaded Exercices
-re-introduction to C programming and shell language : rewriting functions from the standard C libraries, pointers, recursion, command-line arguments, header files, dynamic memory allocation.
+re-introduction to C programming and shell language : rewriting functions from the standard C libraries, pointers, recursion, command-line arguments, header files, dynamic memory allocation and MAkefiles.
 
 | __Basic shell__ |           |  __100__ %   |
 | :--------------- |:---------------| :-----|
