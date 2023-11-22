@@ -52,7 +52,7 @@ Re-introduction to C programming and shell language : <br> rewriting functions f
 | ex26  | [`ft_count_if.c`](/ex26/ft_count_if.c)  |   |
 | ex27  | [`ft_display_file.c`](/ex27/srcs/ft_display_file.c)  |   |
 | ex27  | [`main.c`](/ex27/srcs/main.c)  |   |
-| ex27  | [`ft_putstr.c`](/ex27/srcs/ft_putstr.c.c)  |   |
+| ex27  | [`ft_putstr.c`](/ex27/srcs/ft_putstr.c)  |   |
 | ex27  | [`ft_putchar.c`](/ex27/srcs/ft_putchar.c)  |   |
 | ex27  | [`libft.h`](/ex27/includes/libft.h)  |   |
 | ex27  | [`Makefile`](/ex27/Makefile)  |   |
